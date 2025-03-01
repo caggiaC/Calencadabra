@@ -1,0 +1,6 @@
+@Calencadabra_HostAddress = http://localhost:5208
+
+GET {{Calencadabra_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
